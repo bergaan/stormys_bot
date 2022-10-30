@@ -12,6 +12,7 @@
   },
   "scripts": {
     "start": "node index.js",
+    "stop": "killall node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "bergaan",
