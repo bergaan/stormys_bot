@@ -16,7 +16,7 @@ module.exports = {
                 { name:`:page_with_curl: Rules of Stormy's Wreckfest`, value:`\`/rules\`\n\u200B`, inline:true},
                 { name:`:question: Cornerbomb definition`, value:`\`/cornerbomb\`\n\u200B`, inline:true},
                 { name:`:question: Grief definition`, value:`\`/grief\`\n\u200B`, inline:true},
-                { name:`:busts_in_silhouette:  See who is online in Stormy's Wreckfest`, value:`\`/players\` or \`/playerstime\` \n*\`/players help\` for more informations*\n\u200B`, inline:true},
+                //{ name:`:busts_in_silhouette:  See who is online in Stormy's Wreckfest`, value:`\`/players\` or \`/playerstime\` \n*\`/players help\` for more informations*\n\u200B`, inline:true},
                 { name:`:desktop: Useful links !`, value:`\`/links\`\n\u200B`, inline:true}
             )
             .setFooter(`Bot made by @bergaan#6292`)
