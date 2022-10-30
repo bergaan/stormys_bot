@@ -1,0 +1,78 @@
+{
+  "clientId": "732424850697748511",
+  "guildId": "419075564935315458",
+  "prefix": "?",
+  "default_embed_color": "#CCCCCC",
+  "images": {
+    "thumbnail": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_128x31.png",
+    "footer": "http://www.borntorace.eu/wreckfest/discordbot/stormys_square_rounded_64x64.png"
+  },
+  "server_infos": {
+    "0": {
+      "full_name": "Stormy's\u00A0\u00A0Wreckfest\u00A0\u00A0|\u00A0C\u00A0\u00A0|\u00A0NO\u00A0Cornerbomb\u00A0NO\u00A0Reverse",
+      "sub_name": "Class\u00A0\u00A0C,\u00A0\u00A0Realistic",
+      "channel_name": "class-c",
+      "thumbnail": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
+      "image": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
+      "ip": "62.45.108.188",
+      "port": "27028",
+      "tracker_id": "44978",
+      "embed_color": "#A60A0B"
+    },
+    "1": {
+      "full_name": "Stormy's\u00A0\u00A0Wreckfest\u00A0\u00A0|\u00A0\u00A0Codaïne's\u00A0\u00A0Event\u00A0\u00A0practice",
+      "sub_name": "Event\u00A0\u00A0practice",
+      "channel_name": "event",
+      "thumbnail": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
+      "image": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
+      "ip": "62.45.108.188",
+      "port": "27026",
+      "tracker_id": "244065",
+      "embed_color": "#8857C2"
+    }
+  },
+  "sa_channel": {
+    "0": "927157340506038282",
+    "1": "937035341926387721",
+    "2": "937033556465688676",
+    "3": "886307979345948682",
+    "4": "886308052079378494",
+    "5": "886308065870249995",
+    "6": "886308102511669338",
+    "7": "886308113874042940",
+    "8": "886308127031590912",
+    "9": "886308141141229610",
+    "10": "886308151438225449",
+    "11": "886308163182276688",
+    "12": "886308182723547166",
+    "13": "886308194010423357",
+    "14": "886308207885156433",
+    "15": "886308219495002182",
+    "16": "886308231088046090",
+    "17": "886308244019089410",
+    "18": "898570140898164766",
+    "19": "937013338007826452"
+  },
+  "sa_channel_comment": {
+    "0": "server-activity",
+    "1": "server-activity-event",
+    "2": "server-activity-test",
+    "3": "1",
+    "4": "2",
+    "5": "3",
+    "6": "4",
+    "7": "5",
+    "8": "6",
+    "9": "7",
+    "10": "8",
+    "11": "9",
+    "12": "10",
+    "13": "11",
+    "14": "12",
+    "15": "13",
+    "16": "14",
+    "17": "15",
+    "18": "t16",
+    "19": "cmd-tests"
+  }
+}

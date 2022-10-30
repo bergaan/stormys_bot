@@ -1,0 +1,1968 @@
+[2021-05-03 18:04:59][server:bergaan_test][channel:test][user:bergaan]hjk
+[2021-05-03 18:13:18][server:bergaan_test][channel:test][user:bergaan]sgsd
+[2021-05-03 18:13:22][server:bergaan_test][channel:test][user:bergaan]?p
+[2021-05-03 18:13:24][server:bergaan_test][channel:test][user:Stormy's Bot]
+[2021-05-03 18:13:26][server:bergaan_test][channel:test][user:bergaan]?P
+[2021-05-03 18:13:28][server:bergaan_test][channel:test][user:Stormy's Bot]
+[2021-05-03 18:13:45][server:bergaan_test][channel:test][user:bergaan]sdg
+[2021-05-03 18:13:47][server:bergaan_test][channel:test][user:bergaan]??p
+[2021-05-03 18:13:51][server:bergaan_test][channel:test][user:bergaan]??P
+[2021-05-03 18:17:38][server:bergaan_test][channel:test][user:bergaan]??p
+[2021-05-03 18:24:30][server:bergaan_test][channel:test][user:bergaan]??help
+[2021-05-03 18:24:52][server:bergaan_test][channel:test][user:bergaan]??cornerbomb
+[2021-05-03 18:26:43][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-03 18:26:44][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]<@216668010298081281>, There was an error trying to execute that command!
+[2021-05-03 18:27:12][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-03 18:27:12][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 18:29:03][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-03 18:29:04][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 18:30:10][server:bergaan_test][channel:test][user:bergaan]?cb
+[2021-05-03 18:30:10][server:bergaan_test][channel:test][user:Stormy's Bot]
+[2021-05-03 18:31:32][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-03 18:31:33][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 18:32:26][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-03 18:32:27][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 18:33:28][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-03 18:33:28][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 18:36:42][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-03 18:36:42][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 18:36:43][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-03 18:36:44][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:00:10][server:bergaan_test][channel:follows][user:Rainbow 6 #rainbow-six-news]☢️ **Limited-time event: Apocalypse**
+Humanity destroyed our planet, yet life among death pursued. Play the Apocalypse in-game event to protect the only life left on Earth.
+
+🗓️  Available from tomorrow, May 4 to May 18.
+
+<:YouTube:328612276636483584> **Watch the trailer**: <https://www.youtube.com/watch?v=KaTbi7aERvM>
+🍬 **Learn more**: <https://rainbow6.com/apocalypse>
+[2021-05-03 19:08:55][server:bergaan_test][channel:test][user:bergaan]??link
+[2021-05-03 19:08:55][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 19:09:12][server:bergaan_test][channel:test][user:bergaan]??link
+[2021-05-03 19:09:12][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 19:09:26][server:bergaan_test][channel:test][user:bergaan]??link
+[2021-05-03 19:09:26][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:09:36][server:bergaan_test][channel:test][user:bergaan]??link
+[2021-05-03 19:09:36][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 19:09:45][server:bergaan_test][channel:test][user:bergaan]??link
+[2021-05-03 19:09:45][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:28:30][server:bergaan_test][channel:test][user:bergaan]??cornerbomb
+[2021-05-03 19:28:30][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:28:34][server:bergaan_test][channel:test][user:bergaan]?? grief
+[2021-05-03 19:28:34][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:28:40][server:bergaan_test][channel:test][user:bergaan]?? help
+[2021-05-03 19:28:40][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:28:47][server:bergaan_test][channel:test][user:bergaan]?? links
+[2021-05-03 19:28:48][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:28:52][server:bergaan_test][channel:test][user:bergaan]?? rules
+[2021-05-03 19:28:56][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-03 19:29:24][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-03 19:29:24][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:30:04][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-03 19:30:04][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:30:16][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-03 19:30:16][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:31:07][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-03 19:31:07][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:31:52][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-03 19:31:52][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:47:56][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-03 19:47:56][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 19:53:25][server:bergaan_test][channel:test][user:bergaan]??help
+[2021-05-03 19:53:25][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 20:32:08][server:bergaan_test][channel:test][user:bergaan]??help mod
+[2021-05-03 20:32:08][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 20:32:33][server:bergaan_test][channel:test][user:bergaan]??help mod
+[2021-05-03 20:32:33][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 20:33:02][server:bergaan_test][channel:test][user:bergaan]??help mod
+[2021-05-03 20:33:02][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 20:41:43][server:bergaan_test][channel:test][user:bergaan]??help mod
+[2021-05-03 20:41:43][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-03 23:02:49][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-03 23:02:50][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 23:03:34][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-03 23:03:37][server:bergaan_test][channel:test][user:bergaan]??message a
+[2021-05-03 23:03:37][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]?message <channel> <message>
+[2021-05-03 23:03:46][server:bergaan_test][channel:test][user:bergaan]??message s
+[2021-05-03 23:03:49][server:bergaan_test][channel:test][user:bergaan]??message e
+[2021-05-03 23:03:51][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-03 23:03:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]?message <channel> <message>
+[2021-05-03 23:07:48][server:bergaan_test][channel:test][user:bergaan]??message a
+[2021-05-03 23:07:52][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:10:52][server:bergaan_test][channel:test][user:bergaan]??message a
+[2021-05-03 23:10:52][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]?message [channel] [message]
+[2021-05-03 23:10:59][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:10:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error: ReferenceError: client is not defined
+[2021-05-03 23:11:22][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:11:48][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:11:49][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-03 23:12:20][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:12:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'channel' of undefined
+[2021-05-03 23:12:44][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:12:44][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-03 23:13:20][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:13:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-03 23:14:16][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:14:16][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 23:14:25][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:14:25][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 23:15:13][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:15:13][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: client.channels.get is not a function
+[2021-05-03 23:16:34][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:16:34][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: client.channels.get is not a function
+[2021-05-03 23:17:50][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:17:50][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-03 23:18:06][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:18:06][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-03 23:20:00][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]hello
+[2021-05-03 23:20:17][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-03 23:20:18][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-04 01:43:38][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 01:43:38][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-04 01:47:45][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 01:47:45][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : ReferenceError: client is not defined
+[2021-05-04 01:48:25][server:bergaan_test][channel:test2][user:bergaan]??message a a
+[2021-05-04 01:48:25][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-04 01:48:32][server:bergaan_test][channel:test2][user:bergaan]??message a a
+[2021-05-04 01:48:32][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-04 02:30:21][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 02:30:21][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'channels' of undefined
+[2021-05-04 02:36:13][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 02:36:13][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 02:36:46][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 02:36:46][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 02:37:02][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 02:37:02][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'get' of undefined
+[2021-05-04 02:40:57][server:bergaan_test][channel:test][user:bergaan]??cornerbomb
+[2021-05-04 02:40:57][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 02:43:46][server:bergaan_test][channel:test][user:bergaan]??cornerbomb
+[2021-05-04 02:43:46][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 02:44:06][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-04 02:44:06][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 02:44:30][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-04 02:44:30][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 02:44:50][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-04 02:44:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 02:45:16][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-04 02:45:16][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 02:46:11][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-04 02:46:11][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 02:46:27][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-04 02:46:27][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 02:47:09][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 02:47:10][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'get' of undefined
+[2021-05-04 02:47:53][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 02:47:53][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]oui
+[2021-05-04 02:48:53][server:bergaan_test][channel:test][user:bergaan]??message a
+[2021-05-04 02:48:53][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??message [channel] [message]
+[2021-05-04 02:50:42][server:bergaan_test][channel:test][user:bergaan]??message <#741106146315862047> a
+[2021-05-04 02:50:42][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]oui
+[2021-05-04 02:53:51][server:bergaan_test][channel:test][user:bergaan]??message <#741106146315862047> a
+[2021-05-04 02:53:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]oui
+[2021-05-04 02:54:05][server:bergaan_test][channel:test][user:bergaan]??message <#741106146315862047> a
+[2021-05-04 02:54:05][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-04 03:08:45][server:bergaan_test][channel:test][user:bergaan]??message <#741106146315862047> a
+[2021-05-04 03:08:46][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]oui
+[2021-05-04 03:09:16][server:bergaan_test][channel:test2][user:bergaan]??message #tes a
+[2021-05-04 03:09:17][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]Error : TypeError: Cannot read property 'send' of undefined
+[2021-05-04 03:09:36][server:bergaan_test][channel:test2][user:bergaan]??message #tes a
+[2021-05-04 03:09:41][server:bergaan_test][channel:test2][user:bergaan]??message #tes a
+[2021-05-04 03:09:52][server:bergaan_test][channel:test2][user:bergaan]??message #tes a
+[2021-05-04 03:09:53][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:11:08][server:bergaan_test][channel:test2][user:bergaan]??message <#741106146315862047> 🙂
+[2021-05-04 03:11:09][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]🙂
+[2021-05-04 03:11:16][server:bergaan_test][channel:test][user:bergaan]??message <#741106146315862047> 🙂
+[2021-05-04 03:11:17][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]🙂
+[2021-05-04 03:11:30][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583>  🙂
+[2021-05-04 03:11:30][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]🙂
+[2021-05-04 03:14:23][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583>  fuckme
+[2021-05-04 03:15:14][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583>  fuckme
+[2021-05-04 03:15:15][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]fuckme
+[2021-05-04 03:15:44][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583>  fuckme
+[2021-05-04 03:19:31][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583>  fuckme
+[2021-05-04 03:19:31][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:19:59][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583>  fuckme
+[2021-05-04 03:20:00][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:20:28][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:20:28][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:21:34][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:21:50][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:22:02][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:23:46][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:23:46][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:24:06][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:24:06][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:24:53][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:25:30][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:25:30][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:27:37][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:27:37][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:28:01][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:28:01][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:30:04][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:30:05][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:30:27][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:30:27][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:31:53][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:31:53][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:42:45][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:42:46][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??message [channel] [message]
+[2021-05-04 03:43:33][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:43:34][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??message [channel] [message]
+[2021-05-04 03:43:34][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:44:59][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:44:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??message [channel] [message]
+[2021-05-04 03:45:12][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:45:12][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??message [channel] [message]
+[2021-05-04 03:45:38][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 03:45:38][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??message [channel] [message]
+[2021-05-04 03:45:50][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 03:45:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:46:30][server:bergaan_test][channel:test][user:bergaan]??message aa a
+[2021-05-04 03:46:30][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:46:41][server:bergaan_test][channel:test][user:bergaan]??message aa a
+[2021-05-04 03:46:41][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:47:16][server:bergaan_test][channel:test][user:bergaan]??message a a
+[2021-05-04 03:47:16][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:48:57][server:bergaan_test][channel:test][user:bergaan]??message aa a
+[2021-05-04 03:48:57][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:49:11][server:bergaan_test][channel:test][user:bergaan]??message aa a
+[2021-05-04 03:49:38][server:bergaan_test][channel:test][user:bergaan]??message aa a
+[2021-05-04 03:49:38][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 03:49:51][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 03:49:52][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 03:50:36][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 03:50:36][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 03:50:42][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 03:50:42][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 03:51:01][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 03:51:01][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 03:53:05][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 03:53:05][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 03:54:02][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 03:54:02][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 03:54:08][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583> a
+[2021-05-04 03:54:37][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583> a
+[2021-05-04 03:54:46][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583> a
+[2021-05-04 03:54:50][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 03:54:50][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 03:54:52][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583> a
+[2021-05-04 03:55:20][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583> a
+[2021-05-04 03:55:41][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583> a
+[2021-05-04 03:55:41][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 04:02:50][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 04:02:50][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 04:03:32][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 04:03:32][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 04:03:44][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a
+[2021-05-04 04:03:44][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 04:05:53][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a b c
+[2021-05-04 04:05:54][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 04:06:17][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a b c
+[2021-05-04 04:06:17][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a
+[2021-05-04 04:06:35][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a b c
+[2021-05-04 04:06:35][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 04:07:20][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a b c
+[2021-05-04 04:07:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]ab
+[2021-05-04 04:07:31][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a b c
+[2021-05-04 04:07:31][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]abc
+[2021-05-04 04:08:24][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a b 
+c
+[2021-05-04 04:08:24][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]ab
+c
+[2021-05-04 04:08:55][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> a b 
+c
+[2021-05-04 04:08:55][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a b 
+c
+[2021-05-04 04:09:02][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583>
+a b 
+c
+[2021-05-04 04:09:02][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]b 
+c
+[2021-05-04 04:09:14][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> 
+a b 
+c
+[2021-05-04 04:09:14][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a b 
+c
+[2021-05-04 04:09:50][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> grab my ass 😏
+[2021-05-04 04:09:50][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]grab my ass 😏
+[2021-05-04 04:11:44][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-04 04:11:44][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:11:48][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-04 04:11:48][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:11:50][server:bergaan_test][channel:test][user:bergaan]??links
+[2021-05-04 04:11:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:11:54][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-04 04:11:54][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:11:57][server:bergaan_test][channel:test][user:bergaan]??help
+[2021-05-04 04:11:57][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:12:01][server:bergaan_test][channel:test][user:bergaan]??message
+[2021-05-04 04:12:01][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??message [channel] [message]
+[2021-05-04 04:12:10][server:bergaan_test][channel:test][user:bergaan]??players
+[2021-05-04 04:12:10][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-04 04:12:14][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-04 04:12:14][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:14:15][server:bergaan_test][channel:test][user:bergaan]??links
+[2021-05-04 04:14:15][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:14:40][server:bergaan_test][channel:test][user:bergaan]??links
+[2021-05-04 04:14:40][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:14:58][server:bergaan_test][channel:test][user:bergaan]?links
+[2021-05-04 04:14:59][server:bergaan_test][channel:test][user:Stormy's Bot]
+[2021-05-04 04:15:04][server:bergaan_test][channel:test][user:bergaan]??links
+[2021-05-04 04:15:05][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:15:11][server:bergaan_test][channel:test][user:bergaan]??cb
+[2021-05-04 04:15:12][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:15:15][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-04 04:15:15][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:15:18][server:bergaan_test][channel:test][user:bergaan]??help
+[2021-05-04 04:15:19][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:17:36][server:bergaan_test][channel:test][user:bergaan]??links
+[2021-05-04 04:17:36][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-04 04:17:40][server:bergaan_test][channel:test][user:bergaan]??rules
+[2021-05-04 04:17:40][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-05 17:29:52][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583>  a b c
+[2021-05-05 17:29:52][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]a b c
+[2021-05-05 17:30:05][server:bergaan_test][channel:test][user:bergaan_test]??message <#485860427230871583>  a b c
+[2021-05-05 17:38:17][server:bergaan_test][channel:test][user:bergaan]?ping
+[2021-05-05 17:38:25][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:38:28][server:bergaan_test][channel:test][user:bergaan]??ping a
+[2021-05-05 17:38:40][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:38:42][server:bergaan_test][channel:test][user:bergaan]??ping a
+[2021-05-05 17:45:10][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:45:11][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]🏓Latency is 0ms. API Latency is 139ms
+[2021-05-05 17:45:18][server:bergaan_test][channel:test][user:bergaan_test]??ping
+[2021-05-05 17:45:18][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]🏓Latency is 0ms. API Latency is 139ms
+[2021-05-05 17:45:40][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:45:40][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-05 17:45:48][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:45:48][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-05 17:46:51][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:46:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-05 17:47:04][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:47:10][server:bergaan_test][channel:test][user:bergaan]??ping a
+[2021-05-05 17:47:23][server:bergaan_test][channel:test][user:bergaan]??ping
+[2021-05-05 17:47:34][server:bergaan_test][channel:test][user:bergaan]??pingserver
+[2021-05-05 17:47:34][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-05 17:48:12][server:bergaan_test][channel:test][user:bergaan]??pingserver
+[2021-05-05 17:48:12][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-05 17:48:21][server:bergaan_test][channel:test][user:bergaan]??pingserver
+[2021-05-05 17:48:22][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]??pingserver [server]
+[2021-05-05 17:48:26][server:bergaan_test][channel:test][user:bergaan]??pingserver z
+[2021-05-06 17:44:45][server:bergaan_test][channel:1][user:bergaan]??grief
+[2021-05-06 17:44:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:25:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:26:25][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:27:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:54:02][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:54:38][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:54:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:55:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:55:51][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:56:12][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:56:34][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:57:30][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 18:58:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:01:06][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:16:25][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:17:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:17:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:18:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:18:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:18:34][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:20:24][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:20:41][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:20:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:21:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:25:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:25:38][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:26:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:26:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:27:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:27:44][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:28:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:29:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:40:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:42:41][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:43:05][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 19:43:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 20:28:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 20:28:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 23:22:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 23:41:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 23:42:12][server:bergaan_test][channel:test][user:bergaan]??message <#485860427230871583> aezf
+[2021-05-06 23:42:12][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]aezf
+[2021-05-06 23:50:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 23:54:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-06 23:56:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:01:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:10:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:10:24][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:10:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:13:30][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:15:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:15:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:16:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:17:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:20:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:32:51][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:33:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:33:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:33:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:34:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:34:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:35:56][server:bergaan_test][channel:test][user:bergaan]?ptime
+[2021-05-07 00:35:57][server:bergaan_test][channel:test][user:Stormy's Bot]
+[2021-05-07 00:42:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:43:11][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:44:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:44:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 00:51:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:05:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:05:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:06:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:06:28][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:06:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:15:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:18:01][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:19:29][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:19:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:44:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:45:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:45:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:45:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:45:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:46:41][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:46:41][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:46:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:46:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:37][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:37][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:47:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:48:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:48:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:48:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:48:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:48:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:48:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:49:12][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:49:12][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:51:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:51:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:55:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:55:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:56:02][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:56:02][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:56:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:56:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:58:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:58:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:58:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 01:58:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:09:37][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:09:37][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:09:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:09:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:10:06][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:10:06][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:11:00][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:11:00][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:13:25][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:13:25][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:14:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:22:14][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:22:14][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:22:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:22:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:27:10][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:27:10][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:27:22][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:27:22][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:27:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:27:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:30:05][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:30:05][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:30:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:30:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:32:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:32:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:32:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:32:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:33:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:33:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:34:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:34:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:34:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:34:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:34:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:34:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:35:00][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:35:00][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:35:06][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:35:06][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:35:22][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:35:22][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:40:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:40:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:41:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:41:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:41:39][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:41:39][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:00][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:00][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:23][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:23][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:43:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:44:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:44:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:45:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:45:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:45:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:45:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:45:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:45:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:48:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:48:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:49:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:49:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:37][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:37][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:50:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:51:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:51:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:01][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:01][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:47][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:47][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:52:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:04][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:04][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:53:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:54:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:54:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:54:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:54:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:54:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:54:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:55:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:55:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:56:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:56:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:56:41][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:56:41][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:58:11][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:58:11][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:59:11][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 02:59:11][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:01:17][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:01:17][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:02:01][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:02:01][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:02:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:02:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:03:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:03:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:08:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:08:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:09:28][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:09:28][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:10:14][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:10:14][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:10:49][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:10:49][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:23:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:23:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:27:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:27:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:28:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:28:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:30:10][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:30:10][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:31:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:31:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:32:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:32:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:33:29][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:33:29][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:34:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:34:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:34:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:34:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:34:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:34:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:25][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:25][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:39][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:39][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:35:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:36:29][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:36:29][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:40:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:40:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:43:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:43:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:45:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:45:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:52:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 03:52:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:00:02][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:00:02][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:06:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:06:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:09:51][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:12:27][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:15:39][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:18:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:18:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:19:06][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:19:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:19:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:20:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:21:47][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 04:21:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 15:59:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 15:59:21][server:bergaan_test][channel:test][user:bergaan]?s
+[2021-05-07 15:59:28][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 15:59:34][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 15:59:35][server:bergaan_test][channel:test][user:bergaan]?s
+[2021-05-07 15:59:44][server:bergaan_test][channel:test][user:bergaan]?s
+[2021-05-07 15:59:44][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:01:56][server:bergaan_test][channel:test][user:bergaan]?s
+[2021-05-07 16:02:35][server:bergaan_test][channel:test][user:bergaan]?start
+[2021-05-07 16:03:11][server:bergaan_test][channel:test][user:bergaan]?frief
+[2021-05-07 16:03:13][server:bergaan_test][channel:test][user:bergaan]?grief
+[2021-05-07 16:03:14][server:bergaan_test][channel:test][user:Stormy's Bot]
+[2021-05-07 16:03:20][server:bergaan_test][channel:test][user:bergaan]??start
+[2021-05-07 16:03:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-07 16:03:37][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:03:37][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-07 16:05:21][server:bergaan_test][channel:test][user:bergaan]s
+[2021-05-07 16:10:12][server:bergaan_test][channel:test][user:bergaan]s
+[2021-05-07 16:10:15][server:bergaan_test][channel:test][user:bergaan]s
+[2021-05-07 16:11:57][server:bergaan_test][channel:test][user:bergaan]s
+[2021-05-07 16:11:57][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-07 16:14:43][server:bergaan_test][channel:test][user:bergaan]s
+[2021-05-07 16:22:07][server:bergaan_test][channel:test][user:bergaan]s 0
+[2021-05-07 16:22:10][server:bergaan_test][channel:test][user:bergaan]s
+[2021-05-07 16:23:21][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-07 16:23:29][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:30:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:30:50][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:31:13][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-07 16:31:42][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-07 16:41:43][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:42:17][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:43:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:43:21][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:43:21][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:43:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:44:05][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:44:05][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:44:23][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:44:23][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:44:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:50:31][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:50:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:50:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:53:36][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:53:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:55:26][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:55:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 16:56:01][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-07 16:56:01][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:04:08][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:04:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:05:39][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:05:39][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:06:49][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:06:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:07:30][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:07:30][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:07:51][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:07:51][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:08:19][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:08:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:08:31][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:08:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:09:08][server:bergaan_test][channel:test][user:bergaan]\|\|ezrze\|\|
+[2021-05-07 17:09:35][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:09:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:10:03][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:10:04][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:10:16][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:10:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:11:08][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:11:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:11:18][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:11:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:11:54][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:11:55][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:56:53][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:56:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:57:17][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:57:21][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:58:35][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:58:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 17:59:15][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 17:59:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:01:46][server:bergaan_test][channel:test][user:bergaan]\z
+[2021-05-07 18:01:54][server:bergaan_test][channel:test][user:bergaan]\||
+[2021-05-07 18:06:25][server:bergaan_test][channel:test][user:bergaan]\|\| dfsdf \|\|
+[2021-05-07 18:06:52][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:06:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:12:09][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:12:10][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:12:49][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:12:49][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:17:13][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:17:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:20:51][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:20:51][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:21:31][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:21:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:31:34][server:bergaan_test][channel:test][user:bergaan]\`\`\`dsfsdf\`\`\`
+[2021-05-07 18:32:58][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:32:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:34:01][server:bergaan_test][channel:1][user:bergaan]~dsfs~
+[2021-05-07 18:35:54][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:35:55][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:36:07][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:36:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:37:48][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:37:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:39:37][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:39:38][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:40:36][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:40:37][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:43:34][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:44:44][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:45:36][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:45:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:45:39][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:45:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 18:46:44][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 18:46:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:13:18][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:13:22][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:13:48][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:13:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:14:49][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:14:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:17:26][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:17:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:17:56][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:17:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:18:49][server:bergaan_test][channel:welcome][user:Dyno]
+[2021-05-07 19:19:04][server:bergaan_test][channel:1][user:bergaan]?help
+[2021-05-07 19:19:04][server:bergaan_test][channel:1][user:Stormy's Bot]
+[2021-05-07 19:19:08][server:bergaan_test][channel:1][user:bergaan]?purge
+[2021-05-07 19:19:31][server:bergaan_test][channel:1][user:bergaan]?purge
+[2021-05-07 19:19:43][server:bergaan_test][channel:test][user:bergaan]?p
+[2021-05-07 19:19:45][server:bergaan_test][channel:test][user:Stormy's Bot]
+[2021-05-07 19:21:04][server:bergaan_test][channel:1][user:bergaan]?purge
+[2021-05-07 19:21:16][server:bergaan_test][channel:1][user:bergaan]?purge 2
+[2021-05-07 19:22:20][server:bergaan_test][channel:1][user:bergaan]dynopurge
+[2021-05-07 19:22:20][server:bergaan_test][channel:1][user:Dyno]
+[2021-05-07 19:22:25][server:bergaan_test][channel:1][user:bergaan]dynopurge 10
+[2021-05-07 19:22:39][server:bergaan_test][channel:1][user:bergaan]fghfgh
+[2021-05-07 19:22:40][server:bergaan_test][channel:1][user:bergaan]fghfg
+[2021-05-07 19:22:43][server:bergaan_test][channel:1][user:bergaan]-purge 2
+[2021-05-07 19:22:55][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:22:55][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:26:08][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:26:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:26:19][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:26:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:31:10][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:31:53][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:31:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:32:03][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:32:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:32:52][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:32:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:33:33][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:33:34][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:46:35][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:46:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 19:46:55][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 19:46:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 21:54:02][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 21:54:02][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 22:30:34][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 22:30:35][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 22:36:44][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 22:36:44][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 22:38:37][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 22:38:38][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 23:34:52][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 23:34:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 23:35:02][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 23:35:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 23:35:29][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 23:35:29][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-07 23:58:19][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-07 23:58:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 00:45:04][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 00:45:35][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 00:45:44][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 00:46:15][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 00:46:32][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:06:49][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:07:05][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:07:12][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:07:28][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:07:28][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:07:51][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:07:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:07:58][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:07:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:08:05][server:bergaan_test][channel:1][user:bergaan]-purge 10
+[2021-05-08 01:08:08][server:bergaan_test][channel:1][user:bergaan]-purge 10
+[2021-05-08 01:08:08][server:bergaan_test][channel:1][user:Dyno]<@216668010298081281>, a little too quick there.
+[2021-05-08 01:08:12][server:bergaan_test][channel:1][user:bergaan]-purge 10
+[2021-05-08 01:08:20][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:08:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:20:56][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:20:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:21:09][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:21:10][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:21:27][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:21:28][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:22:54][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:22:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:27:45][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:27:45][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:27:49][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:27:49][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:28:18][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:28:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:28:21][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 01:28:21][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 01:42:55][server:bergaan_test][channel:1][user:bergaan]-purge 20
+[2021-05-08 02:51:45][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 02:51:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 02:51:50][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 02:51:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 03:00:52][server:bergaan_test][channel:1][user:bergaan]-purge 10
+[2021-05-08 03:00:56][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 03:01:07][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 03:01:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 03:02:50][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 03:02:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:29:26][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:29:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:30:20][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:30:21][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:32:08][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:32:08][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:34:19][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:34:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:38:46][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:38:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:39:15][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:39:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:39:23][server:bergaan_test][channel:tps][user:bergaan]18:30
+[2021-05-08 18:52:53][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:52:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 18:53:46][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 18:53:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:02:09][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:02:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:02:57][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:02:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:03:33][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:03:33][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:04:48][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:04:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:13:16][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:13:17][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:19:50][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:19:51][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:19:53][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:19:55][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:19:57][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:19:59][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:01][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:05][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:11][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:13][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:17][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:19][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:21][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:20:23][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:11][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:21:11][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:14][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:16][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:20][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:22][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:24][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:28][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:30][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:32][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:34][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:36][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:38][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:40][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:44][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:46][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:50][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:21:58][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:22:00][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:22:02][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:22:04][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:29:03][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:29:03][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:30:16][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:30:17][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:30:52][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:30:52][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:31:06][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:31:07][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:37:16][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:37:17][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:40:31][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:40:31][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:41:42][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:41:42][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:49:18][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:49:18][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 19:58:56][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 19:58:56][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 20:00:47][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 20:00:48][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:02:23][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:02:41][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:02:41][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:02:53][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:02:54][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:03:25][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:03:26][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:03:49][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:03:49][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:13:12][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:13:12][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:15:08][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:15:09][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:20:51][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:20:51][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:21:14][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:21:15][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:35:47][server:bergaan_test][channel:1][user:bergaan]??s
+[2021-05-08 21:35:47][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-05-08 21:36:02][server:bergaan_test][channel:aze][user:bergaan]??s
+[2021-05-08 21:36:02][server:bergaan_test][channel:aze][user:stormys_wreckfest_dev]
+[2021-05-08 21:37:23][server:bergaan_test][channel:aze-df-][user:bergaan]??s
+[2021-05-08 21:37:23][server:bergaan_test][channel:aze-df-][user:stormys_wreckfest_dev]
+[2021-05-09 17:35:14][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-09 17:35:14][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-09 18:43:40][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:43:41][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:47:13][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:47:14][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:48:19][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:48:19][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:48:52][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:48:52][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:50:51][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:50:52][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:53:07][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:53:08][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:53:38][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:53:39][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:55:06][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:55:07][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 18:56:38][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 18:56:38][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 19:13:07][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 19:13:07][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-09 19:14:04][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-09 19:14:04][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:40:05][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:40:05][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:41:39][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:41:40][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:43:57][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:43:57][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:44:44][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:44:44][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:45:15][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:45:15][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:50:58][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:50:59][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:52:05][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:52:06][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:52:40][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:52:40][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:54:44][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:54:44][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:55:30][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:55:31][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:56:00][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:56:00][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:58:31][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:58:31][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 14:58:51][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 14:58:51][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:13:59][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:13:59][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:17:48][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:17:49][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:30:07][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:30:08][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:30:36][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:30:37][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:31:22][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:31:22][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:32:20][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:32:20][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:33:16][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:33:16][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:34:31][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:34:31][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:36:04][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:36:04][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 15:46:27][server:bergaan_test][channel:azerer][user:bergaan]??s
+[2021-05-10 15:46:27][server:bergaan_test][channel:azerer][user:stormys_wreckfest_dev]
+[2021-05-10 16:10:04][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 16:10:04][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 16:57:59][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 16:57:59][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 16:58:30][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 16:58:31][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 16:58:45][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 16:58:45][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 16:59:18][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 16:59:19][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 16:59:58][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 16:59:58][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:02:17][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:02:17][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:02:34][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:02:34][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:03:39][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:03:39][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:04:50][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:04:51][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:06:12][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:06:12][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:07:21][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:07:22][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:07:52][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:07:53][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:10:19][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:10:19][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:50:07][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 17:50:07][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:51:34][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-10 17:51:35][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:53:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-10 17:53:06][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 17:55:28][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-10 17:55:29][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-10 18:46:58][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:46:58][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:47:17][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:47:18][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:49:11][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:49:11][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:50:46][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:50:46][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:52:44][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:52:44][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:53:11][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:53:11][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:57:40][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:57:40][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:57:52][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:57:53][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 18:58:11][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 18:58:11][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 19:05:57][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 19:06:09][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 19:06:59][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 19:06:59][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 19:34:51][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 19:34:52][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:25:03][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:25:03][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:25:26][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:25:26][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:26:41][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:26:41][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:33:24][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:33:24][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:33:39][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:33:39][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:34:10][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:34:10][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:34:25][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:34:26][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:35:42][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:35:42][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:36:32][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:36:33][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:36:50][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:36:50][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:37:14][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:37:15][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:38:08][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:38:09][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:38:36][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:38:36][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:39:13][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:39:13][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:41:45][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:41:46][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:42:37][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:42:37][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:44:31][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:44:31][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:44:50][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:44:50][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:44:58][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-05-10 20:44:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-10 20:52:03][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s 0
+[2021-05-10 20:52:03][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:52:21][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:54:35][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s 0
+[2021-05-10 20:54:35][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:56:17][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s 0
+[2021-05-10 20:56:17][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 20:57:04][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s
+[2021-05-10 20:57:14][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s 0
+[2021-05-10 20:57:14][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 21:19:22][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s 0
+[2021-05-10 21:19:22][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 21:19:41][server:bergaan_test][channel:👥class-c︱23𝘭24][user:bergaan]??s 0
+[2021-05-10 21:19:41][server:bergaan_test][channel:👥class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-05-10 21:19:47][server:bergaan_test][channel:👥wreck-em-all︱19𝘭24][user:bergaan]??s 1
+[2021-05-10 21:19:47][server:bergaan_test][channel:👥wreck-em-all︱19𝘭24][user:stormys_wreckfest_dev]
+[2021-05-11 15:34:50][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 15:34:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 15:34:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 15:50:21][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 15:50:21][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 15:50:21][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 16:10:24][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 16:10:25][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 16:10:25][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:05:30][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:05:30][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:05:31][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:06:57][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:06:57][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:06:57][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:07:13][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:07:13][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:07:13][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:07:30][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:07:30][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:07:31][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:07:59][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:07:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:07:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:08:15][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:08:16][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:08:16][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:08:36][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:08:36][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:08:36][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:09:20][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:09:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:09:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:19:09][server:bergaan_test][channel:test][user:bergaan]??s 0*
+[2021-05-11 17:19:09][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:19:09][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:19:20][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:19:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:19:20][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:20:47][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:20:47][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:20:47][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:21:40][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:21:40][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:21:40][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:22:11][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:22:11][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:22:11][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:28:28][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:28:28][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:28:28][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:28:50][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:28:50][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:28:50][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:29:15][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:29:15][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:29:15][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:32:05][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:32:05][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:32:05][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:39:51][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:39:52][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:39:52][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:40:18][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:40:18][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:40:18][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:47:06][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 17:47:06][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 17:47:06][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:02:07][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 18:02:07][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:02:07][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:07:38][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:07:38][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:08:23][server:bergaan_test][channel:follows][user:Wreckfest #announcements]@Xbox Player WF Hotfix - XB1 launching now. Fixes steering wheel issues
+[2021-05-11 18:10:12][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:10:12][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:11:22][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:11:23][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:17:38][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:17:38][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:17:45][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:17:46][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:18:04][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:18:05][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:18:14][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:18:14][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:25:59][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:25:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:29:30][server:bergaan_test][channel:test][user:bergaan]??test
+[2021-05-11 18:29:31][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:32:27][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 18:32:28][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:32:28][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:34:27][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 18:34:27][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:47:13][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 18:47:13][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:48:18][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 18:48:18][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:48:26][server:bergaan_test][channel:test][user:bergaan]??s a
+[2021-05-11 18:52:51][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 18:52:51][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:52:55][server:bergaan_test][channel:test][user:bergaan]??s a
+[2021-05-11 18:52:55][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:53:15][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 18:53:15][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 18:53:22][server:bergaan_test][channel:test][user:bergaan]??s a
+[2021-05-11 18:53:22][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:04:18][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:04:19][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:13:48][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:13:48][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:14:32][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:14:32][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:18:44][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:18:45][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:29:03][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:29:04][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:34:17][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:34:17][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:44:59][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:44:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:48:07][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:48:07][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:48:49][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:48:49][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:51:11][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:51:11][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:54:00][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:54:00][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 19:56:05][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 19:56:06][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 21:00:45][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 21:00:46][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 21:53:40][server:bergaan_test][channel:test][user:bergaan]??p 5
+[2021-05-11 21:53:40][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[object Promise]sdf
+[object Promise]nb;,
+[2021-05-11 22:22:29][server:bergaan_test][channel:test][user:bergaan]ghj
+[2021-05-11 22:22:36][server:bergaan_test][channel:test][user:bergaan]??p
+[2021-05-11 22:22:47][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-11 22:24:45][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-11 22:24:45][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 22:25:59][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 22:25:59][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 22:26:27][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 22:26:27][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 22:27:08][server:bergaan_test][channel:test][user:bergaan]?s 0
+[2021-05-11 22:27:10][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 22:27:10][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 22:33:25][server:bergaan_test][channel:test][user:bergaan]??grief
+[2021-05-11 22:33:26][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 22:33:29][server:bergaan_test][channel:test][user:bergaan]lkm
+[2021-05-11 23:24:03][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-11 23:24:03][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-11 23:24:39][server:bergaan_test][channel:test2][user:bergaan]??s 1
+[2021-05-11 23:24:39][server:bergaan_test][channel:test2][user:stormys_wreckfest_dev]
+[2021-05-12 00:21:32][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-12 00:21:32][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-12 02:55:55][server:bergaan_test][channel:test][user:bergaan]??s 0
+[2021-05-12 02:55:55][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-05-31 17:24:07][server:bergaan_test][channel:test][user:bergaan]??p 1
+[2021-05-31 17:25:42][server:bergaan_test][channel:test][user:bergaan]??p 1
+[2021-05-31 17:26:02][server:bergaan_test][channel:test][user:bergaan]??p 1
+[2021-05-31 17:26:48][server:bergaan_test][channel:test][user:bergaan]??p 1
+[2021-05-31 17:26:48][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]There was an error trying to execute that command!
+[2021-05-31 17:27:56][server:bergaan_test][channel:test][user:bergaan]??p 1
+[2021-05-31 17:27:58][server:bergaan_test][channel:test][user:stormys_wreckfest_dev]
+[2021-06-04 19:11:37][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:bergaan]-purge 10
+[2021-06-04 19:11:42][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:bergaan]??serveractivity 0
+[2021-06-04 19:11:43][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 19:11:43][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 19:11:43][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 19:13:14][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:bergaan]??serveractivity 0
+[2021-06-04 19:13:15][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 19:13:15][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 19:13:15][server:bergaan_test][channel:🙋class-c︱2𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 20:08:35][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:bergaan]-purge 100
+[2021-06-04 20:08:42][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:bergaan]??serveractivity 1
+[2021-06-04 20:08:42][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:08:43][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:08:43][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:08:48][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]-purge 10
+[2021-06-04 20:08:54][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 3
+[2021-06-04 20:09:05][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 2
+[2021-06-04 20:09:05][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:09:05][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:09:06][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:28][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]-purge 10
+[2021-06-04 20:16:35][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serveractivity 0
+[2021-06-04 20:16:36][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:37][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:37][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:40][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:bergaan]-purge 10
+[2021-06-04 20:16:42][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:bergaan]??serveractivity 1
+[2021-06-04 20:16:43][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:43][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:43][server:bergaan_test][channel:🙅wreck-em-all︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:46][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]-purge 10
+[2021-06-04 20:16:49][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 2
+[2021-06-04 20:16:50][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:50][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 20:16:50][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 23:32:28][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serverstatus 0
+[2021-06-04 23:32:40][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serveractivity 0
+[2021-06-04 23:32:40][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:32:41][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:32:41][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:43][server:bergaan_test][channel:🙋wreck-em-all︱16𝘭24][user:bergaan]??serveractivity 1
+[2021-06-04 23:33:44][server:bergaan_test][channel:🙋wreck-em-all︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:44][server:bergaan_test][channel:🙋wreck-em-all︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:44][server:bergaan_test][channel:🙋wreck-em-all︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:48][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serveractivity 0
+[2021-06-04 23:33:49][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:49][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:50][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:55][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 2
+[2021-06-04 23:33:55][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:55][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-04 23:33:56][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:41][server:bergaan_test][channel:0][user:bergaan]??serveractivity 0
+[2021-06-05 00:25:41][server:bergaan_test][channel:0][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:41][server:bergaan_test][channel:0][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:42][server:bergaan_test][channel:0][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:43][server:bergaan_test][channel:1][user:bergaan]??serveractivity 0
+[2021-06-05 00:25:44][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:44][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:44][server:bergaan_test][channel:1][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:45][server:bergaan_test][channel:2][user:bergaan]??serveractivity 0
+[2021-06-05 00:25:46][server:bergaan_test][channel:2][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:46][server:bergaan_test][channel:2][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:47][server:bergaan_test][channel:2][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:48][server:bergaan_test][channel:3][user:bergaan]??serveractivity 1
+[2021-06-05 00:25:48][server:bergaan_test][channel:3][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:49][server:bergaan_test][channel:3][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:49][server:bergaan_test][channel:3][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:51][server:bergaan_test][channel:4][user:bergaan]??serveractivity 1
+[2021-06-05 00:25:52][server:bergaan_test][channel:4][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:52][server:bergaan_test][channel:4][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:53][server:bergaan_test][channel:4][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:54][server:bergaan_test][channel:5][user:bergaan]??serveractivity 1
+[2021-06-05 00:25:54][server:bergaan_test][channel:5][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:55][server:bergaan_test][channel:5][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:55][server:bergaan_test][channel:5][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:55][server:bergaan_test][channel:6][user:bergaan]??serveractivity 2
+[2021-06-05 00:25:56][server:bergaan_test][channel:6][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:56][server:bergaan_test][channel:6][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:56][server:bergaan_test][channel:6][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:58][server:bergaan_test][channel:7][user:bergaan]??serveractivity 2
+[2021-06-05 00:25:59][server:bergaan_test][channel:7][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:59][server:bergaan_test][channel:7][user:stormys_wreckfest_dev]
+[2021-06-05 00:25:59][server:bergaan_test][channel:7][user:stormys_wreckfest_dev]
+[2021-06-05 00:26:00][server:bergaan_test][channel:8][user:bergaan]??serveractivity 2
+[2021-06-05 00:26:01][server:bergaan_test][channel:8][user:stormys_wreckfest_dev]
+[2021-06-05 00:26:01][server:bergaan_test][channel:8][user:stormys_wreckfest_dev]
+[2021-06-05 00:26:01][server:bergaan_test][channel:8][user:stormys_wreckfest_dev]
+[2021-06-05 03:54:27][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 03:54:28][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 03:54:28][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 03:54:28][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:38][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:17:39][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:39][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:39][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:41][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:17:42][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:42][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:42][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:43][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:17:44][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:44][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:45][server:bergaan_test][channel:🙋class-c︱16𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:46][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:17:47][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:47][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:48][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:49][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:17:49][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:50][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:50][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:51][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:17:52][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:52][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:52][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:53][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 2
+[2021-06-05 17:17:54][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:54][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:54][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:55][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 2
+[2021-06-05 17:17:56][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:56][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:57][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:58][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 2
+[2021-06-05 17:17:58][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:59][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:17:59][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:01][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:18:02][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:02][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:02][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:03][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:18:04][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:04][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:04][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:06][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:bergaan]??serveractivity 2
+[2021-06-05 17:18:06][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:06][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:18:07][server:bergaan_test][channel:🙅event︱undefined𝘭undefined][user:stormys_wreckfest_dev]
+[2021-06-05 17:34:57][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:34:58][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:34:58][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:34:58][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:34:59][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:35:00][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:00][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:00][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:01][server:bergaan_test][channel:🙅event︱0𝘭0][user:bergaan]??serveractivity 2
+[2021-06-05 17:35:02][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:02][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:02][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:04][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:35:05][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:05][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:06][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:07][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:35:08][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:08][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:08][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:09][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:bergaan]??serveractivity 0
+[2021-06-05 17:35:10][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:10][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:10][server:bergaan_test][channel:🙋class-c︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:12][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:35:12][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:13][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:13][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:14][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:35:15][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:15][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:15][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:16][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-05 17:35:17][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:17][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:18][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:19][server:bergaan_test][channel:🙅event︱0𝘭0][user:bergaan]??serveractivity 2
+[2021-06-05 17:35:19][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:19][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:20][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:21][server:bergaan_test][channel:🙅event︱0𝘭0][user:bergaan]??serveractivity 2
+[2021-06-05 17:35:22][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:22][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:22][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:23][server:bergaan_test][channel:🙅event︱0𝘭0][user:bergaan]??serveractivity 2
+[2021-06-05 17:35:24][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:24][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-05 17:35:26][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-06 01:10:02][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 01:10:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 01:10:38][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 01:10:53][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 01:24:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 01:24:24][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 01:24:33][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 01:28:07][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:28:07][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:07][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:08][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:11][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:28:12][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:12][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:12][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:13][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:28:14][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:14][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:15][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:16][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:28:17][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:17][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:17][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:18][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:28:19][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:19][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:19][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:20][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:28:21][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:21][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:21][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:23][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:28:23][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:24][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:24][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:24][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:28:26][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:26][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:26][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:27][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:28:27][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:27][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:28][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:29][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:28:30][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:30][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:30][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:31][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:28:32][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:32][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:33][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:34][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:28:34][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:34][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:28:34][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:27][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:33:27][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:27][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:28][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:34][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:33:34][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:35][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:35][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:36][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:33:37][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:37][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:38][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:38][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:33:39][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:39][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:39][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:40][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:33:40][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:41][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:41][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:42][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 01:33:43][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:43][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:43][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:44][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:33:44][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:44][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:45][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:45][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:33:46][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:46][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:47][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:47][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 01:33:48][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:48][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:48][server:bergaan_test][channel:🙋wreck-em-all︱6𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:49][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:33:50][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:50][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:50][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:51][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:33:52][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:52][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:52][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:53][server:bergaan_test][channel:🙋event︱22𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 01:33:54][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:54][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 01:33:55][server:bergaan_test][channel:🙋event︱22𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:29:05][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 02:29:06][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:29:06][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:29:06][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:36:24][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 02:36:25][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:36:27][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:36:27][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:36:40][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 02:36:40][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:36:41][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:36:41][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:00][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 02:57:01][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:01][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:01][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:03][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 02:57:04][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:04][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:05][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:07][server:bergaan_test][channel:🙋event︱21𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 02:57:07][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:08][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:08][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:09][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 02:57:10][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:10][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:10][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:11][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 02:57:12][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:12][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:12][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:13][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 02:57:14][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:14][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:15][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:15][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 02:57:17][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:17][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:17][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:18][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 02:57:18][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:19][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:19][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:20][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-06 02:57:20][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:21][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:21][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:22][server:bergaan_test][channel:🙋event︱21𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 02:57:23][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:23][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:23][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:25][server:bergaan_test][channel:🙋event︱21𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 02:57:25][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:26][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:26][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:27][server:bergaan_test][channel:🙋event︱21𝘭24][user:bergaan]??serveractivity 2
+[2021-06-06 02:57:28][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:28][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 02:57:28][server:bergaan_test][channel:🙋event︱21𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 03:31:19][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:bergaan]??serveractivity 0
+[2021-06-06 03:31:20][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 03:31:20][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 03:31:20][server:bergaan_test][channel:🙋class-c︱23𝘭24][user:stormys_wreckfest_dev]
+[2021-06-06 16:31:08][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:28][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:29][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:30][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:32][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:33][server:bergaan_test][channel:test][user:bergaan]???s
+[2021-06-06 16:31:34][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:36][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:37][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:37][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:37][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:38][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:38][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:39][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:39][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:39][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:40][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:40][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:40][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:56][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:57][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:57][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:57][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:58][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:58][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:58][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:31:59][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:07][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:07][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:07][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:10][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:10][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:11][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:13][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:16][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:17][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:19][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:20][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:21][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:24][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:25][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:26][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:27][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:28][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:29][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:30][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:31][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:32][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:32][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:32:34][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:13][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:14][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:15][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:16][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:17][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:18][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:19][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:20][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:23][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:24][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:25][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:33:26][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:34:53][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:34:54][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:34:56][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:34:57][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:34:58][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:34:59][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:00][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:02][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:03][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:04][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:07][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:08][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:10][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:11][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:17][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:18][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:20][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:21][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:23][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:24][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:26][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:28][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:29][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:31][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:32][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:34][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:35][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:36][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:37][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:38][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:39][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:40][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:41][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:42][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:43][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:44][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:45][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:47][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-06 16:35:48][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 13:58:36][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:09][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:10][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:11][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:14][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:15][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:16][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:17][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:18][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:18][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:19][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:20][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:21][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 14:01:23][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:09][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:13][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:16][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:17][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:18][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:18][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:28][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:29][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:42:30][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:42][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:42][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:42][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:43][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:43][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:43][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:44][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:44][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:44][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:45][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:52][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:52][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:52][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:43:53][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:44:04][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:44:05][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:44:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:44:07][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:44:07][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 17:46:30][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:01][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:02][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:02][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:03][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:04][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:04][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:05][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:06][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:07][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:11][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:11][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:12][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:13][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:13][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:13][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:14][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:21][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:22][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 19:21:23][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:46][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:47][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:47][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:48][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:49][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:50][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:51][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:51][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:52][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:53][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:56][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:56][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-08 20:08:57][server:bergaan_test][channel:test][user:bergaan]??s
+[2021-06-09 16:08:53][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:bergaan]??serveractivity 0
+[2021-06-09 16:08:54][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:54][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:54][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:56][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:bergaan]??serveractivity 0
+[2021-06-09 16:08:56][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:56][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:57][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:58][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:bergaan]??serveractivity 0
+[2021-06-09 16:08:59][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:59][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:08:59][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:00][server:bergaan_test][channel:🙋class-c︱3𝘭24][user:bergaan]??serveractivity 0
+[2021-06-09 16:09:01][server:bergaan_test][channel:🙋class-c︱3𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:01][server:bergaan_test][channel:🙋class-c︱3𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:01][server:bergaan_test][channel:🙋class-c︱3𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:03][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:bergaan]??serveractivity 0
+[2021-06-09 16:09:03][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:04][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:04][server:bergaan_test][channel:🙋class-c︱4𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:05][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:bergaan]??serveractivity 1
+[2021-06-09 16:09:06][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:06][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:06][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:07][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:bergaan]??serveractivity 1
+[2021-06-09 16:09:07][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:08][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:08][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:09][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:bergaan]??serveractivity 1
+[2021-06-09 16:09:10][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:10][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:10][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:11][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:bergaan]??serveractivity 1
+[2021-06-09 16:09:12][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:12][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:13][server:bergaan_test][channel:🙅wreck-em-all︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:15][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:bergaan]??serveractivity 1
+[2021-06-09 16:09:16][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:16][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:16][server:bergaan_test][channel:🙋wreck-em-all︱24𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:16][server:bergaan_test][channel:🙅event︱0𝘭24][user:bergaan]??serveractivity 2
+[2021-06-09 16:09:17][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:17][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:17][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:19][server:bergaan_test][channel:🙅event︱0𝘭0][user:bergaan]??serveractivity 2
+[2021-06-09 16:09:19][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:19][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:20][server:bergaan_test][channel:🙅event︱0𝘭0][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:21][server:bergaan_test][channel:🙅event︱0𝘭24][user:bergaan]??serveractivity 2
+[2021-06-09 16:09:22][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:22][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:22][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:23][server:bergaan_test][channel:🙅event︱0𝘭24][user:bergaan]??serveractivity 2
+[2021-06-09 16:09:24][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:24][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:24][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:25][server:bergaan_test][channel:🙅event︱0𝘭24][user:bergaan]??serveractivity 2
+[2021-06-09 16:09:25][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:26][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2021-06-09 16:09:26][server:bergaan_test][channel:🙅event︱0𝘭24][user:stormys_wreckfest_dev]
+[2022-10-30 16:47:46][server:bergaan_test][channel:cmd-tests][user:bergaan]gfhfg
+[2022-10-30 16:47:51][server:bergaan_test][channel:cmd-tests][user:bergaan]ghj
