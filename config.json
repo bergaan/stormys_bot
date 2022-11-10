@@ -14,7 +14,7 @@
       "channel_name": "class-c",
       "thumbnail": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
       "image": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
-      "ip": "62.45.108.188",
+      "ip": "141.224.235.126",
       "port": "27028",
       "tracker_id": "44978",
       "embed_color": "#A60A0B"
@@ -25,7 +25,7 @@
       "channel_name": "event",
       "thumbnail": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
       "image": "http://www.borntorace.eu/wreckfest/discordbot/main/stormys_logo_v2-1_white_1024x244.png",
-      "ip": "62.45.108.188",
+      "ip": "141.224.235.126",
       "port": "27026",
       "tracker_id": "244065",
       "embed_color": "#8857C2"
@@ -50,8 +50,7 @@
     "15": "886308219495002182",
     "16": "886308231088046090",
     "17": "886308244019089410",
-    "18": "898570140898164766",
-    "19": "937013338007826452"
+    "18": "898570140898164766"
   },
   "sa_channel_comment": {
     "0": "server-activity",
@@ -72,7 +71,6 @@
     "15": "13",
     "16": "14",
     "17": "15",
-    "18": "t16",
-    "19": "cmd-tests"
+    "18": "t16"
   }
 }

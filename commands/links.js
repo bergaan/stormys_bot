@@ -1,5 +1,4 @@
-const { SlashCommandBuilder } = require('@discordjs/builders');
-const { MessageEmbed } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 
 module.exports = {
 	data: new SlashCommandBuilder()
@@ -8,7 +7,7 @@ module.exports = {
         
 	async execute(interaction, config) {
         //Set embed
-		const embed = new MessageEmbed()
+		const embed = new EmbedBuilder()
             .setColor(config.default_embed_color)
             .setTitle(`:desktop: Useful links\n\u200B`)
             .setThumbnail(config['images']['thumbnail'])

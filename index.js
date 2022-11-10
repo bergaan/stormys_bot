@@ -1,14 +1,12 @@
 const fs = require('fs'); //Read/Edit files module
-const { Client, Collection, Intents, MessageEmbed } = require('discord.js');
+const fetch = require('node-fetch');
+const { Client, Events, Collection, EmbedBuilder, GatewayIntentBits } = require('discord.js');
+const keepAlive = require('./server'); //prod
 
-const config = require('./config.json');
+const config = require('./config.json'); //prod
+//const config = require('./config_dev.json'); //local
 
-const client = new Client({
-    intents: [
-        Intents.FLAGS.GUILDS,
-        Intents.FLAGS.GUILD_MESSAGES
-    ]
-});
+const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 //Collection of text commands
 client.textCommands = new Collection();
@@ -54,12 +52,7 @@ client.on('messageCreate',  async message => {
         if(message.author.bot) return; //Return if message from bot
 
         //Write logs
-        /*fs.appendFile('/var/www/html/portal.pi/stormys_discord_logs.txt', formatLogInfos(message) + message.content + `\n`, function (err,data) {
-            if (err) {
-                return console.log(err);
-            }
-        });*/
-        fs.appendFile('msg.txt', formatLogInfos(message) + message.content + `\n`, function (err,data) {
+        fs.appendFile('/var/www/html/portal.pi/stormys_discord_logs.txt', formatLogInfos(message) + message.content + `\n`, function (err,data) {
             if (err) {
                 return console.log(err);
             }
@@ -155,5 +148,6 @@ async function updatePresence()
     console.log(Date() + " - " + 'Update presence');
 }
 
-//client.login(config.token);
-client.login(process.env.token);
+//client.login(config.token); //local
+client.login(process.env['token']); //prod
+keepAlive(); //prod

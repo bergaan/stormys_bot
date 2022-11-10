@@ -1,5 +1,4 @@
-const { SlashCommandBuilder } = require('@discordjs/builders');
-const { MessageEmbed, MessageActionRow, MessageButton } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 
 module.exports = {
 	data: new SlashCommandBuilder()
@@ -8,7 +7,7 @@ module.exports = {
         
 	async execute(interaction, config) {
         //Set embed
-        const embed = new MessageEmbed()
+        const embed = new EmbedBuilder()
             .setColor(config.default_embed_color)
             .setTitle(`:page_with_curl: Stormy's Wreckfest servers rules\n\u200B`)
             .setDescription(`\u200B`)
@@ -20,16 +19,16 @@ module.exports = {
             );
 
             //Set buttons
-            const row = new MessageActionRow()
+            const row = new ActionRowBuilder()
                 .addComponents(
-                    new MessageButton()
+                    new ButtonBuilder()
                         .setCustomId('cornerbomb')
                         .setLabel('Cornerbomb definition')
-                        .setStyle('SECONDARY'),
-                    new MessageButton()
+                        .setStyle(ButtonStyle.Secondary),
+                    new ButtonBuilder()
                         .setCustomId('grief')
                         .setLabel('Grief definition')
-                        .setStyle('SECONDARY'),
+                        .setStyle(ButtonStyle.Secondary),
                 );
 
 		return interaction.reply({ embeds: [embed], components: [row] });
